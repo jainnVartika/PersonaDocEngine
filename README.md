@@ -83,6 +83,7 @@ scikit-learn, numpy, pdfplumber
 Installed offline via .whl files in wheels/
 
 👤 Author
-Vartika Jain
-GitHub: [your-profile-link]
-Email: [your-email@example.com]
+Vartika Jain and Sneha Sahu
+GitHub: https://github.com/jainnVartika
+Email: vartikajain1903@gmail.com
+
