@@ -1,0 +1,11 @@
+# Don't copy virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore model if it's already in container manually
+*.ipynb
+*.pdf
+*.md
+.DS_Store
+.env

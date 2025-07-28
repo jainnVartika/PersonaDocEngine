@@ -1,0 +1,131 @@
+[
+  {
+    "file_name": "gnn_review_1.pdf",
+    "persona": "Data Scientist",
+    "job_to_be_done": "Understand statistical analysis techniques used in the report",
+    "processing_timestamp": "2025-07-28T10:54:31.686112",
+    "relevant_sections": [
+      {
+        "document": "sample_docs\\gnn_review_1.pdf",
+        "page_number": 15,
+        "section_title": "GAT, GCN",
+        "importance_rank": 1,
+        "refined_text": "GAT, GCN\nsynergetic DDI Prediction w/ attention mechanism\nO’Neil’s dataset,Menden’s dataset\nMD-Syn [111]\nGCN"
+      },
+      {
+        "document": "sample_docs\\gnn_review_1.pdf",
+        "page_number": 15,
+        "section_title": "MRCGNN [39]",
+        "importance_rank": 2,
+        "refined_text": "MRCGNN [39]\nGCN\nDDI Prediction w/ incorporation of negative DDI event\nDeng’s dataset,Ryu’s dataset\nSRR-DDI [110]"
+      },
+      {
+        "document": "sample_docs\\gnn_review_1.pdf",
+        "page_number": 15,
+        "section_title": "MDNN [37]",
+        "importance_rank": 3,
+        "refined_text": "MDNN [37]\nGNN\nDDI Prediction w/ knowledge graphs\nDrugBank\nDPDDI [98]"
+      },
+      {
+        "document": "sample_docs\\gnn_review_1.pdf",
+        "page_number": 30,
+        "section_title": "D1265–D1275 (2023).",
+        "importance_rank": 4,
+        "refined_text": "D1265–D1275 (2023).\n[114] Kim, S. et al. PubChem 2025 update. Nucleic Acids Research 53, D1516–D1525 (2025).\n[115] Johnson, A. E. et al. MIMIC-III, a freely accessible critical care database. Scientific data 3, 1–9\n(2016).\n[116] Johnson, A. E. W. et al. MIMIC-IV, a freely accessible electronic health record dataset. Scientific"
+      },
+      {
+        "document": "sample_docs\\gnn_review_1.pdf",
+        "page_number": 15,
+        "section_title": "SSF-DDI [109]",
+        "importance_rank": 5,
+        "refined_text": "SSF-DDI [109]\nMPNN\nDDI Prediction w/ on sequence and substructure features\nDrugBank,Twosides\nDeepDDS [107]"
+      }
+    ]
+  },
+  {
+    "file_name": "gnn_review_2.pdf",
+    "persona": "Data Scientist",
+    "job_to_be_done": "Understand statistical analysis techniques used in the report",
+    "processing_timestamp": "2025-07-28T10:54:39.458090",
+    "relevant_sections": [
+      {
+        "document": "sample_docs\\gnn_review_2.pdf",
+        "page_number": 4,
+        "section_title": "8. Conclusions and Perspectives.............................................................................................................. 179",
+        "importance_rank": 1,
+        "refined_text": "8. Conclusions and Perspectives.............................................................................................................. 179 \nAuthor Contributions ............................................................................................................................. 179 \nBiographies ............................................................................................................................................... 180 \nReference .................................................................................................................................................. 182"
+      },
+      {
+        "document": "sample_docs\\gnn_review_2.pdf",
+        "page_number": 76,
+        "section_title": "GAT",
+        "importance_rank": 2,
+        "refined_text": "GAT \nAttribute to attention scores \nLocal Structure \nInterpretation \nGraphLIME295"
+      },
+      {
+        "document": "sample_docs\\gnn_review_2.pdf",
+        "page_number": 3,
+        "section_title": "6. Knowledge Graph ................................................................................................................................ 139",
+        "importance_rank": 3,
+        "refined_text": "6. Knowledge Graph ................................................................................................................................ 139 \n6.1 Knowledge Graph Construction ................................................................................................... 139 \n6.2 Link Prediction: Completing Knowledge ..................................................................................... 145 \n6.3 Node and Graph Prediction: Leveraging Knowledge................................................................... 157 \n6.4 Challenges of KGs: Imperfect Data, XAI, and Multi-omics ........................................................ 161"
+      },
+      {
+        "document": "sample_docs\\gnn_review_2.pdf",
+        "page_number": 3,
+        "section_title": "1.2. Scope and Organization of This Review .......................................................................................... 7",
+        "importance_rank": 4,
+        "refined_text": "1.2. Scope and Organization of This Review .......................................................................................... 7 \n2. Advances in Graph Neural Networks ..................................................................................................... 8 \n2.1 General Graph Theory ...................................................................................................................... 8 \n2.2 Symmetric GNN: Incorporate Physical Laws ................................................................................. 15 \n2.3 Large and Deep GNN: Challenges and Actions ............................................................................ 24"
+      },
+      {
+        "document": "sample_docs\\gnn_review_2.pdf",
+        "page_number": 3,
+        "section_title": "1. Introduction ............................................................................................................................................. 5",
+        "importance_rank": 5,
+        "refined_text": "1. Introduction ............................................................................................................................................. 5 \n1.1 Graph is a Natural Representation in Drug Discovery .................................................................... 5 \n1.2. Scope and Organization of This Review .......................................................................................... 7 \n2. Advances in Graph Neural Networks ..................................................................................................... 8 \n2.1 General Graph Theory ...................................................................................................................... 8"
+      }
+    ]
+  },
+  {
+    "file_name": "pepgb_gnn.pdf",
+    "persona": "Data Scientist",
+    "job_to_be_done": "Understand statistical analysis techniques used in the report",
+    "processing_timestamp": "2025-07-28T10:54:41.622807",
+    "relevant_sections": [
+      {
+        "document": "sample_docs\\pepgb_gnn.pdf",
+        "page_number": 6,
+        "section_title": "A",
+        "importance_rank": 1,
+        "refined_text": "A\nB\nFigure 2.\nAn illustration of the framework of diPepGB. A diPepGB aims to address the\nimbalance nature of experimental data, which would lead to the uneven local topology on PepPI"
+      },
+      {
+        "document": "sample_docs\\pepgb_gnn.pdf",
+        "page_number": 6,
+        "section_title": "B",
+        "importance_rank": 2,
+        "refined_text": "B\nFigure 2.\nAn illustration of the framework of diPepGB. A diPepGB aims to address the\nimbalance nature of experimental data, which would lead to the uneven local topology on PepPI\ngraph. The “firework” style sub-graph can be formulated into a directed graph by constructing"
+      },
+      {
+        "document": "sample_docs\\pepgb_gnn.pdf",
+        "page_number": 24,
+        "section_title": "ACM",
+        "importance_rank": 3,
+        "refined_text": "ACM\nTransactions on Information Systems, 41(3):1–39, 2023.\n[22] Gary Tresadern, Kanaka Tatikola, Javier Cabrera, Lingle Wang, Robert Abel, Her-\nman van Vlijmen, and Helena Geys. The impact of experimental and calculated\nerror on the performance of affinity predictions. Journal of Chemical Information"
+      },
+      {
+        "document": "sample_docs\\pepgb_gnn.pdf",
+        "page_number": 21,
+        "section_title": "S3.2",
+        "importance_rank": 4,
+        "refined_text": "S3.2\nBaseline methods and metrics of diPepGB\nIn real-world biological field, there exist extensive binding assays with extremely im-\nbalanced data distribution. One common example is the mutation analysis, where the\nbinding affinities of a series of peptide analogs targeting the same protein are measured."
+      },
+      {
+        "document": "sample_docs\\pepgb_gnn.pdf",
+        "page_number": 4,
+        "section_title": "PPI",
+        "importance_rank": 5,
+        "refined_text": "PPI\nSampled \nnegatives\nB\nD"
+      }
+    ]
+  }
+]
