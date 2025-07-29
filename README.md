@@ -27,9 +27,6 @@ persona-doc-engine/
 ├── requirements.txt
 ├── README.md
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -60,9 +57,6 @@ Configurable output size, section length threshold, and title-match weighting
 📦 Output Format
 Located in backend/output/challenge1b_output.json, the output includes:
 
-json
-Copy
-Edit
 {
   "pdf_name": "gnn_review_1.pdf",
   "matched_sections": [
